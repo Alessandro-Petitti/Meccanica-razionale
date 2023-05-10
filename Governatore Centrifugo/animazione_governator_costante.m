@@ -21,7 +21,6 @@ for j =1:length(w_value)
      plot3(0,0,0,'o','MarkerFaceColor','[0, 0.5, 0]','MarkerEdgeColor','black');
      hold on;
     [x_m1d,y_m1d,z_m1d,x_m1s,y_m1s, z_m1s,x_m2,y_m2,z_m2,ymin,ymax] = calcolatrice(w_value(j));
-
     for i = 1:50:(length(dt))
 
      %traiettoria

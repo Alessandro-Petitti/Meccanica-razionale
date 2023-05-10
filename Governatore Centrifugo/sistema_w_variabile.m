@@ -18,3 +18,4 @@ xdot(4) = -(2*cos(theta)*theta_p*phi_p)/(sin(theta));%phi_p
 
 
 end
+
