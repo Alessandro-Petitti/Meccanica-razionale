@@ -10,15 +10,15 @@ In the "Lab of Rational Mechanics" course, we covered the fundamental topics of 
 
 This repository is organized into the following folders:
 
-1. **Assignment 1:** This folder contains the files and functions related to the first assignment. Inside, you will find the MATLAB function that models the system and the files where the analysis is performed.
+1. **Dumped-pendulum:** This folder contains the files and functions related to the dumped pendulum. The system is a classical pendulum dumped with a viscous friction force. 
 
-2. **Assignment 2:** Here, you can find the files and functions for the second assignment. Similar to the previous folder, it includes the MATLAB function for system modeling and the corresponding analysis files.
+2. **Inverted-pendulum:** Here, you can find the files and functions for the Inverted pendulum.
 
-3. **Assignment 3:** This folder consists of the files and functions for the third assignment. It contains the MATLAB function for system modeling and the analysis files specific to this assignment.
+3. **Double-pendulum:** This folder consists of the files and functions for the Double pendulum. Particulary focused on the chaotic behavior of the system
 
-4. **Assignment 4:** Here, you will find the files and functions for the fourth assignment. It includes the MATLAB function for system modeling and the analysis files related to this particular assignment.
+4. **Centrifugal-governor:** Here, you will find the files and functions for the Centrifugal governor. 
 
-5. **Assignment 5:** This folder contains the files and functions for the fifth and final assignment of the course. It includes the MATLAB function for system modeling and the corresponding analysis files.
+5. **2Dof-Robot:** This folder contains the files and functions for the 2 Degree of freedom robot and an actuated inverted double pendulum . 
 
 ## Getting Started
 
