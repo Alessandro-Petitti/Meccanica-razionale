@@ -14,6 +14,7 @@ This repository is organized into the following folders:
 ![Dumped pendulum picture](Dumped-pendulum/Dumped-pendulum.png)
 
 2. **Inverted-pendulum:** Here, you can find the files and functions for the Inverted pendulum.
+![Inverted pendulum picture](Inverted-pendulum/Inverted-pendulum.png)
 
 3. **Double-pendulum:** This folder consists of the files and functions for the Double pendulum. Particulary focused on the chaotic behavior of the system
 
