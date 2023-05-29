@@ -11,6 +11,7 @@ In the "Lab of Rational Mechanics" course, we covered the fundamental topics of 
 This repository is organized into the following folders:
 
 1. **Dumped-pendulum:** This folder contains the files and functions related to the dumped pendulum. The system is a classical pendulum dumped with a viscous friction force. 
+![Dumped pendulum picture](Dumped-pendulum/Dumped-pendulum.png)
 
 2. **Inverted-pendulum:** Here, you can find the files and functions for the Inverted pendulum.
 
