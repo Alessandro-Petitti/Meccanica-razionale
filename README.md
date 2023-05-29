@@ -20,11 +20,11 @@ This repository is organized into the following folders:
  ![Double pendulum picture](Double-pendulum/Double-pendulum.png)
 
 4. **Centrifugal-governor:** Here, you will find the files and functions for the Centrifugal governor. 
-![Centrifugal-governor picture](Centrifugal-governor/Centrifugal-governor.png)
+![Centrifugal-governor picture](Centrifugal-governor/Centrifigual-governator.png)
 
 
 5. **2Dof-Robot:** This folder contains the files and functions for the 2 Degree of freedom robot and an actuated inverted double pendulum . 
-![2Dof robot picture](2Dof-Robot/2Dof-Robot.png)
+![2Dof robot picture](2Dof-robot/2Dof-robot.png)
 ## Getting Started
 
 To access my work for each assignment, navigate to the respective folder and explore the files inside. You will find the MATLAB functions that model the systems and the files where I conducted the analysis. Feel free to review the code and the results to gain insight into the simulations performed.
